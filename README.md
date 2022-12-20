@@ -1,10 +1,10 @@
 ### Hi, i am Leo. 👋
 
-A Software Engineer 
-A Basketball Fanatic
+- A Software Engineer 
+- A Basketball Fanatic
 
-Familiar with web development, front-end, CICD.
-Product passion drive you learn more and quickly.
+#### Familiar with web development, front-end, CICD.
+#### Product passion drive you learn more and quickly.
 
 <!--
 **kidd1118/kidd1118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
