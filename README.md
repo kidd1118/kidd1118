@@ -6,6 +6,7 @@
 #### Familiar with web development, front-end, CICD.
 #### Product passion drive you learn more and quickly.
 
+blog: https://kidd1118.github.io/
 <!--
 **kidd1118/kidd1118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
